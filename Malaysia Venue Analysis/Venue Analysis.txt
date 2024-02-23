@@ -1,0 +1,17 @@
+Selangor:
+- 59% games have been won by the team batting second. However, if we do bat first, 205 is a score we need to aim for. If we are bowling first, we need to restrict them to around 135. 
+- If batting first, runs will be harder to get in the first 30 overs. However, in the last 20, we can capitalize. Conversely, if batting second, try to get as many runs as possible in the first 30 overs, as runs are harder to come by in the last 20 overs of the day.
+- In the first innings, there are more chances of getting bowled than in the second (11% more). So, if we are bowling first, try to bowl at the stumps as much as possible. 
+- In the second innings, there is an 8% greater chance of getting out LBW than in the first. This possibly means that in the second innings, the ball will be deviating more off the wicket than in the first.
+- In general, it seems like Left-arm Orthodox spinners have been the most productive. They have the best Strike Rate and Average, as well as the highest dot ball %.
+- Apart from the Right-arm medium pacers, it seems every other type of bowler's strike rate as well as average increases in the second innings, meaning it is harder to get wickets then. 
+- The spinners are generally the most economical. 
+
+Bayeumas:
+- Here, the difference between batting in the first innings and second innings is huge - 72% of the games are won by the team batting second. And if we bat first, we will need to put up a score of around 260 to maximize our chances of victory. 
+- When batting first, again, the first 40 overs will be difficult - so the batsmen should try and get around 4 per over, stay longer at the crease and set up a huge last 10 overs where they can go for 6.5 per over. Conversely, when batting second, the scoring rate stays the same for the entirety of the innings. 
+- There is an 8% greater chance of getting bowled in the first innings than in the second. If bowling first, try to bowl at the stumps as much as possible.
+- Left-arm Medium pacers seem to be very effective on this ground, especially in the first innings. In the second innings, they seem to concede more runs and bowl fewer dot balls. 
+- Spinners perform very well in the second innings. 
+- Right-arm off-spinners seem to be performing very well at Bayeumas, irrespective of the innings. 64% of their deliveries are dot balls, and they bowl about 30 balls and concede about 20 runs per wicket they take. 
+- Once again, spinners are more economical at this venue. However, it seems like medium pacers are quicker in getting the wickets.
